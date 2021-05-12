@@ -1,0 +1,18 @@
+body {
+        background-color: cadetblue;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.news-container{
+    display: flex;
+    flex-direction: row;
+}
+.news-image{
+    width:300px;
+    height:200px;
+}
+.countrylist-container{
+text-align: center;
+}
